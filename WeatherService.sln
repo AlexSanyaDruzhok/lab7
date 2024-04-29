@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WeatherService", "WeatherService.vcxproj", "{35B48311-AB69-40CC-A17A-4D810F07C7B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35B48311-AB69-40CC-A17A-4D810F07C7B4}.Debug|x64.ActiveCfg = Debug|x64
+		{35B48311-AB69-40CC-A17A-4D810F07C7B4}.Debug|x64.Build.0 = Debug|x64
+		{35B48311-AB69-40CC-A17A-4D810F07C7B4}.Debug|x86.ActiveCfg = Debug|Win32
+		{35B48311-AB69-40CC-A17A-4D810F07C7B4}.Debug|x86.Build.0 = Debug|Win32
+		{35B48311-AB69-40CC-A17A-4D810F07C7B4}.Release|x64.ActiveCfg = Release|x64
+		{35B48311-AB69-40CC-A17A-4D810F07C7B4}.Release|x64.Build.0 = Release|x64
+		{35B48311-AB69-40CC-A17A-4D810F07C7B4}.Release|x86.ActiveCfg = Release|Win32
+		{35B48311-AB69-40CC-A17A-4D810F07C7B4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9F0D82-D3E4-4274-9DCE-3FA82CB51F58}
+	EndGlobalSection
+EndGlobal
